@@ -3,4 +3,4 @@ Allow: /
 Disallow: /_next/
 Disallow: /api/
 
-Sitemap: https://nezumi-expert.com/sitemap.xml
+Sitemap: https://nezumi-expert-navi.com/sitemap.xml
